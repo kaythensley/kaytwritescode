@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Kayt Writes Code (and other stuff too)
 email: kayt.hensley@gmail.com
-description: > This is a blog where I will talk about things, both of the code and non-code variety.
+description: This is a blog where I will talk about things, both of the code and non-code variety.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kaytwritescode
